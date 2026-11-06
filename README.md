@@ -1,8 +1,8 @@
-# EuroTour
+# Euro Tour
 
 Interactive map of road and train trips across Europe. Routes are defined in JSON files — no editing UI, just the map.
 
-**Live:** https://denyspiven.github.io/EuroTour/
+**Live:** https://denyspiven.github.io/Euro-Tour/
 
 ## Routes
 
